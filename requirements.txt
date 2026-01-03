@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+twilio
+python-dotenv
+openai
+boto3
+faiss-cpu
+pydantic
+requests
+python-multipart
+PyPDF2
+numpy

@@ -1,0 +1,7 @@
+{
+  "org_name": "Sample University",
+  "assistant_role": "Admission Helpdesk",
+  "language": "English",
+  "tone": "polite",
+  "knowledge_path": "data/sample_org/knowledge/"
+}
